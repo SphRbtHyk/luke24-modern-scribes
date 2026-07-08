@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "Luke 24 Modern-Scribe Corpus (Helsinki pilot)"
+abstract: >-
+  The first Koine Greek corpus of modern hand-copied manuscripts of the Gospel
+  of Luke (24:1-28), produced under controlled iterative-copying conditions to
+  supply ground-truth data for computational stemmatology.
+authors:
+  - family-names: "ROBERT-HAYEK"
+    affiliation: "Sorbonne Universite"
+  - family-names: "NIKKI"
+    affiliation: "Umea University"
+version: "0.1.0"
+date-released: "2026-01-01"
+license: CC-BY-4.0
+keywords:
+  - stemmatology
+  - textual criticism
+  - Koine Greek
+  - New Testament
+  - ground truth
+  - phylogenetics

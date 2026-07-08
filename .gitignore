@@ -1,0 +1,5 @@
+__pycache__
+venv/**
+*cpython*
+.DS_Store
+code/export_corpus.py

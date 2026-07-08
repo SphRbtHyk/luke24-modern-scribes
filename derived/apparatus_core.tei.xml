@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt><title>Luke 24 modern-scribe copies — critical apparatus (core block)</title></titleStmt>
+    <publicationStmt><p>Experimenting the Rise of Early Christianity. CC-BY-4.0.</p></publicationStmt>
+    <sourceDesc><listWit>
+      <witness xml:id="w11">Modern scribe 11 (session 11.00)</witness>
+      <witness xml:id="w12">Modern scribe 12 (session 11.00)</witness>
+      <witness xml:id="w21">Modern scribe 21 (session 12.00)</witness>
+      <witness xml:id="w22">Modern scribe 22 (session 12.30)</witness>
+      <witness xml:id="w23">Modern scribe 23 (session 12.00)</witness>
+      <witness xml:id="w24">Modern scribe 24 (session 13.00)</witness>
+      <witness xml:id="w31">Modern scribe 31 (session 15.00)</witness>
+      <witness xml:id="w32">Modern scribe 32 (session 15.30)</witness>
+    </listWit></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body><p>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">μια</rdg>
+      <rdg wit="#w23">μα</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w23 #w24 #w31 #w32">δε</rdg>
+      <rdg wit="#w22"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w23 #w24 #w31 #w32">των</rdg>
+      <rdg wit="#w22">δετων</rdg>
+    </app>
+    σαββατων
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w32">ορθρου</rdg>
+      <rdg wit="#w23">ορθρον</rdg>
+      <rdg wit="#w24">ορθεν</rdg>
+      <rdg wit="#w31">ορθου</rdg>
+    </app>
+    βαθεως
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w31">ηρχοντο</rdg>
+      <rdg wit="#w32">ερχοντο</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31">επει</rdg>
+      <rdg wit="#w23">επιει</rdg>
+      <rdg wit="#w32">εμει</rdg>
+    </app>
+    το
+    μνημα
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w31 #w32">φαιρουσαι</rdg>
+      <rdg wit="#w12">φαρουσαι</rdg>
+      <rdg wit="#w23">σαρονσαι</rdg>
+      <rdg wit="#w24"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">α</rdg>
+      <rdg wit="#w24">φαρουσαια</rdg>
+    </app>
+    ητοιμασαν
+    και
+    τινες
+    συν
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">αυταις</rdg>
+      <rdg wit="#w24">αυτας</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">ελογιζοντο</rdg>
+      <rdg wit="#w23">ζοντο</rdg>
+      <rdg wit="#w24">ελογοζοντο</rdg>
+      <rdg wit="#w32">εκογιζοντο</rdg>
+    </app>
+    δε
+    εν
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">εαυταις</rdg>
+      <rdg wit="#w23 #w24">εαυτας</rdg>
+      <rdg wit="#w32">εανταις</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">τις</rdg>
+      <rdg wit="#w24">της</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w31">αρα</rdg>
+      <rdg wit="#w32">αποκαλυ</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11">αποκαλυψσεν</rdg>
+      <rdg wit="#w12 #w21 #w22 #w23 #w24 #w31">αποκαλυψεν</rdg>
+      <rdg wit="#w32">ψεν</rdg>
+    </app>
+    τον
+    λιθον
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31">ελθουσαι</rdg>
+      <rdg wit="#w24">ελθουσα</rdg>
+      <rdg wit="#w32">ελθονδαι</rdg>
+    </app>
+    δε
+    ευρον
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">τον</rdg>
+      <rdg wit="#w23">το</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">λιθον</rdg>
+      <rdg wit="#w23">κεκλιομενον</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">αποκεκυλισμενον</rdg>
+      <rdg wit="#w23">α</rdg>
+      <rdg wit="#w24">αποκεκλισμενον</rdg>
+      <rdg wit="#w32">αποκεκυμενον</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">απο</rdg>
+      <rdg wit="#w23">νο</rdg>
+    </app>
+    του
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w32">μνημειου</rdg>
+      <rdg wit="#w23">ε</rdg>
+      <rdg wit="#w31">μνημειον</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">εισελθουσαι</rdg>
+      <rdg wit="#w23">σελθονσαη</rdg>
+      <rdg wit="#w24">εχσελθουσα</rdg>
+      <rdg wit="#w32">εισε</rdg>
+    </app>
+    δε
+    ουχ
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">ευρον</rdg>
+      <rdg wit="#w24">ευροντο</rdg>
+    </app>
+    το
+    σωμα
+    και
+    εγενετο
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">εν</rdg>
+      <rdg wit="#w23"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">τω</rdg>
+      <rdg wit="#w23">εντω</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">απορεισθαι</rdg>
+      <rdg wit="#w23">αδιορεζοθαι</rdg>
+      <rdg wit="#w24">απορεισθας</rdg>
+      <rdg wit="#w32">απορεισ</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31">αυτας</rdg>
+      <rdg wit="#w24">αυτος</rdg>
+      <rdg wit="#w32">αυτοις</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">περι</rdg>
+      <rdg wit="#w23"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">αυτου</rdg>
+      <rdg wit="#w23"/>
+      <rdg wit="#w24">αυτοσ</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">ιδου</rdg>
+      <rdg wit="#w23">περιαυτος</rdg>
+      <rdg wit="#w24">οδου</rdg>
+      <rdg wit="#w32">ιδον</rdg>
+    </app>
+    δυο
+    ανδρες
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w24 #w31">επεστησαν</rdg>
+      <rdg wit="#w22 #w32">επεστσαν</rdg>
+      <rdg wit="#w23">εσιεζτησαν</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">αυταις</rdg>
+      <rdg wit="#w23">αρταης</rdg>
+    </app>
+    εν
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">εσθητι</rdg>
+      <rdg wit="#w23">εσθητη</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w31">αστραπτουσει</rdg>
+      <rdg wit="#w12">αστραπτουση</rdg>
+      <rdg wit="#w23 #w24">εν</rdg>
+      <rdg wit="#w32">αστραοτουσει</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w31">ενφοβοι</rdg>
+      <rdg wit="#w12 #w23">φοβοι</rdg>
+      <rdg wit="#w24">φοβον</rdg>
+      <rdg wit="#w32">ενροβοι</rdg>
+    </app>
+    δε
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31">γενομεναι</rdg>
+      <rdg wit="#w24">γενομενας</rdg>
+      <rdg wit="#w32">χενομεναι</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31">εκλειναν</rdg>
+      <rdg wit="#w23">εναν</rdg>
+      <rdg wit="#w24">εχλειναν</rdg>
+      <rdg wit="#w32">ειλειναν</rdg>
+    </app>
+    τα
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">προσωπα</rdg>
+      <rdg wit="#w23">προσωτια</rdg>
+    </app>
+    εις
+    την
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">γην</rdg>
+      <rdg wit="#w23">ος</rdg>
+      <rdg wit="#w24"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">οι</rdg>
+      <rdg wit="#w23">αε</rdg>
+      <rdg wit="#w24">ος</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">δε</rdg>
+      <rdg wit="#w23">ε</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">ειπαν</rdg>
+      <rdg wit="#w23">τια</rdg>
+    </app>
+    προς
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31">αυτας</rdg>
+      <rdg wit="#w23">ανας</rdg>
+      <rdg wit="#w32">αυταις</rdg>
+    </app>
+    τι
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">ζητειτε</rdg>
+      <rdg wit="#w23">ζητετε</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">τον</rdg>
+      <rdg wit="#w24">του</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">ζωντα</rdg>
+      <rdg wit="#w23">ζωτα</rdg>
+    </app>
+    μετα
+    των
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w24 #w31">νεκρων</rdg>
+      <rdg wit="#w22 #w23 #w32">vεκρων</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">μνησθητε</rdg>
+      <rdg wit="#w24">μνησθετε</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">δε</rdg>
+      <rdg wit="#w24">ος</rdg>
+    </app>
+    οσα
+    ελαλησεν
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">υμειν</rdg>
+      <rdg wit="#w23">μειν</rdg>
+    </app>
+    ετι
+    ων
+    εν
+    τη
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">γαλιλαια</rdg>
+      <rdg wit="#w23">α</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">οτι</rdg>
+      <rdg wit="#w23">ο</rdg>
+    </app>
+    δει
+    τον
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">υιον</rdg>
+      <rdg wit="#w23">ανθρωπον</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">του</rdg>
+      <rdg wit="#w23">δια</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31">ανθρωπου</rdg>
+      <rdg wit="#w23">ρα</rdg>
+      <rdg wit="#w32">ανδρωπου</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">παραδοθηναι</rdg>
+      <rdg wit="#w23">δοθηνα</rdg>
+      <rdg wit="#w24">δοθηναι</rdg>
+    </app>
+    εις
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w31">χειρας</rdg>
+      <rdg wit="#w32">ς</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31">ανθρωπων</rdg>
+      <rdg wit="#w24">ανθρωπως</rdg>
+      <rdg wit="#w32">ανδρωπων</rdg>
+    </app>
+    και
+    <app>
+      <rdg wit="#w11 #w22 #w32">σταυρωθηναι</rdg>
+      <rdg wit="#w12 #w21">σταρωθηναι</rdg>
+      <rdg wit="#w23">σταυρωθηνας</rdg>
+      <rdg wit="#w24">στυρωθηναι</rdg>
+      <rdg wit="#w31">σταυροθηναι</rdg>
+    </app>
+    και
+    <app>
+      <rdg wit="#w11 #w22 #w31 #w32">εν</rdg>
+      <rdg wit="#w12 #w23 #w24">τη</rdg>
+      <rdg wit="#w21"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">τριτη</rdg>
+      <rdg wit="#w23">τρπη</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w32">μηερα</rdg>
+      <rdg wit="#w12 #w23 #w24 #w31">ημερα</rdg>
+    </app>
+    αναστηναι
+    και
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">εμνησθησαν</rdg>
+      <rdg wit="#w23">ησθησαν</rdg>
+    </app>
+    των
+    ρηματων
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w31">αυτου·</rdg>
+      <rdg wit="#w12 #w23 #w24 #w32">αυτου</rdg>
+    </app>
+    και
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w31">υποστρεψασαι</rdg>
+      <rdg wit="#w22">υποσερεψασαι</rdg>
+      <rdg wit="#w23">ψασαι</rdg>
+      <rdg wit="#w24">στρεψασαι</rdg>
+      <rdg wit="#w32">υποστρεψα</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w21 #w31 #w32">απηγγειλαν</rdg>
+      <rdg wit="#w12 #w24">απεγγειλαν</rdg>
+      <rdg wit="#w22">αηγγειλαν</rdg>
+      <rdg wit="#w23">απεγγειλαι</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w31">παντα</rdg>
+      <rdg wit="#w32">μετα</rdg>
+    </app>
+    ταυτα
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24">τοις</rdg>
+      <rdg wit="#w31"/>
+      <rdg wit="#w32">τους</rdg>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w32">ενδεκα</rdg>
+      <rdg wit="#w31"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w32">και</rdg>
+      <rdg wit="#w31"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24 #w32">πασι</rdg>
+      <rdg wit="#w31"/>
+    </app>
+    <app>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w24">τοις</rdg>
+      <rdg wit="#w31"/>
+      <rdg wit="#w32">τους</rdg>
+    </app>
+    λοιποις
+    μαρια
+    η
+    μαγδαληνη
+    και
+    ιωανα
+    και
+    μαρια
+    η
+    <app>
+      <rdg wit="#w11 #w21 #w22 #w31 #w32">ιακωβου</rdg>
+      <rdg wit="#w12 #w23 #w24">ιακοβου</rdg>
+    </app>
+  </p></body></text>
+</TEI>
