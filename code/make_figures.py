@@ -48,13 +48,12 @@ y = np.arange(len(order))
 ax.barh(y, [len(base_toks)] * len(order), color=LGRAY, height=0.62, zorder=1)
 ax.barh(y, ncov, color=colors, height=0.62, zorder=2)
 ax.axvline(core + 1, color=GRAY, ls="--", lw=1.2, zorder=3)
-ax.text(core + 4, len(order) - 0.4, f"comparable core\n(Luke 24:1–10a, {core+1} tok)",
-        fontsize=8.5, color=GRAY, va="top")
+
 ax.set_yticks(y)
 ax.set_yticklabels(order)
 ax.invert_yaxis()
 ax.set_xlabel("tokens copied (of 406 in base witness 11)")
-ax.set_title("How far each modern scribe got",
+ax.set_title("Content of each copy",
              color=BORD, fontweight="bold", loc="left")
 save(fig, "fig_coverage.pdf")
 
@@ -75,8 +74,7 @@ ax.legend(w, [f"{l}  (n={v})" for l, v in zip(labels, vals)],
 tot = sum(vals)
 ax.text(0, 0, f"{tot}\nreadings", ha="center",
         va="center", fontsize=12, color=GRAY)
-ax.set_title("Typology of variation (full collation)",
-             color=BORD, fontweight="bold")
+
 save(fig, "fig_tiers.pdf")
 
 # ---------------------------------------------------------------- 3. minor cats
@@ -125,7 +123,7 @@ ax.set_xticks(x)
 ax.set_xticklabels(ws)
 ax.set_ylabel("readings vs. base")
 ax.legend(frameon=False, fontsize=9)
-ax.set_title("Variation is concentrated in a few careless copies",
+ax.set_title("Variation per copy",
              color=BORD, fontweight="bold", loc="left")
 save(fig, "fig_perwitness.pdf")
 
