@@ -34,9 +34,9 @@ DESIGN_STEMMA = {
     "12": ["23", "24"],
     "21": ["31"],
     "22": ["32"],
-}   # 11,12,21,22 are OBSERVED internal nodes; leaves = 23,24,31,32
+}
 WITNESSES = ["11", "12", "21", "22", "23", "24", "31", "32"]
-BASE = "11"          # Leitzeuge: cleanest and most complete witness
+BASE = "11"
 
 # --------------------------------------------------------------------------
 # 1.  Parsing & cleaning

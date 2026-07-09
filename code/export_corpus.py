@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 HERE = os.path.dirname(__file__)
 REPO = os.path.join(HERE, "..", "repo", "luke24-modern-scribes")
-DATA = os.path.join(HERE, "..", "data")
+DATA = os.path.join(HERE, "..", "data/raw")
 FIG = os.path.join(HERE, "..", "figures")
 
 
@@ -23,6 +23,8 @@ for sub in [("data", "raw"), ("data", "diplomatic"), ("derived"), ("code"), ("fi
     mk(*([sub] if isinstance(sub, str) else sub))
 
 corpus = L.load_corpus(DATA)
+print("--- corpus")
+print(corpus)
 units, inserts, coverage, base_toks = L.collate(corpus)
 core = L.core_boundary(coverage)
 recs = L.classify_all(units, corpus, base_toks=base_toks,
@@ -42,12 +44,12 @@ cj = {
     "project": "Experimenting the Rise of Early Christianity",
     "partners": ["University of Helsinki", "Umea University", "Sorbonne University"],
     "language": "Koine Greek", "passage": "Luke 24:1-28 (road to Emmaus)",
-    "script_note": "exemplar is a Bezae-type text (Oulammaous for Emmaus, Luke 24:13 = Codex Bezae D 05)",
+    "script_note": "exemplar is the Bezae",
     "base_witness": L.BASE, "n_base_tokens": len(base_toks),
     "comparable_core": {"base_index_end": core, "n_tokens": core + 1,
                         "approx_passage": "Luke 24:1-10a"},
     "design_stemma": L.DESIGN_STEMMA,
-    "naming_convention": "label = <parent><child-ordinal>; 1,2,3 are lost family exemplars; all listed witnesses are leaves",
+    "naming_convention": "label = <parent><child-ordinal>",
     "witnesses": {
         s: {"session_time": w["time"], "n_tokens": len(w["tokens"]),
             "coverage_base_index_end": coverage[s][1],
