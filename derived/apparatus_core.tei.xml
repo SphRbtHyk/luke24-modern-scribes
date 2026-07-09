@@ -48,14 +48,10 @@
     μνημα
     <app>
       <rdg wit="#w11 #w21 #w22 #w31 #w32">φαιρουσαι</rdg>
-      <rdg wit="#w12">φαρουσαι</rdg>
+      <rdg wit="#w12 #w24">φαρουσαι</rdg>
       <rdg wit="#w23">σαρονσαι</rdg>
-      <rdg wit="#w24"/>
     </app>
-    <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">α</rdg>
-      <rdg wit="#w24">φαρουσαια</rdg>
-    </app>
+    α
     ητοιμασαν
     και
     τινες
@@ -99,33 +95,30 @@
     </app>
     δε
     ευρον
-    <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">τον</rdg>
-      <rdg wit="#w23">το</rdg>
-    </app>
+    τον
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">λιθον</rdg>
-      <rdg wit="#w23">κεκλιομενον</rdg>
+      <rdg wit="#w23">λιθονα</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31">αποκεκυλισμενον</rdg>
-      <rdg wit="#w23">α</rdg>
+      <rdg wit="#w23">τοκεκλιομενον</rdg>
       <rdg wit="#w24">αποκεκλισμενον</rdg>
       <rdg wit="#w32">αποκεκυμενον</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">απο</rdg>
-      <rdg wit="#w23">νο</rdg>
+      <rdg wit="#w23">ανο</rdg>
     </app>
     του
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w32">μνημειου</rdg>
-      <rdg wit="#w23">ε</rdg>
+      <rdg wit="#w23">μνμενου</rdg>
       <rdg wit="#w31">μνημειον</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31">εισελθουσαι</rdg>
-      <rdg wit="#w23">σελθονσαη</rdg>
+      <rdg wit="#w23">εσελθονσαη</rdg>
       <rdg wit="#w24">εχσελθουσα</rdg>
       <rdg wit="#w32">εισε</rdg>
     </app>
@@ -139,14 +132,8 @@
     σωμα
     και
     εγενετο
-    <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">εν</rdg>
-      <rdg wit="#w23"/>
-    </app>
-    <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">τω</rdg>
-      <rdg wit="#w23">εντω</rdg>
-    </app>
+    εν
+    τω
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31">απορεισθαι</rdg>
       <rdg wit="#w23">αδιορεζοθαι</rdg>
@@ -158,18 +145,14 @@
       <rdg wit="#w24">αυτος</rdg>
       <rdg wit="#w32">αυτοις</rdg>
     </app>
+    περι
     <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">περι</rdg>
-      <rdg wit="#w23"/>
-    </app>
-    <app>
-      <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">αυτου</rdg>
-      <rdg wit="#w23"/>
+      <rdg wit="#w11 #w12 #w21 #w22 #w23 #w31 #w32">αυτου</rdg>
       <rdg wit="#w24">αυτοσ</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31">ιδου</rdg>
-      <rdg wit="#w23">περιαυτος</rdg>
+      <rdg wit="#w23"/>
       <rdg wit="#w24">οδου</rdg>
       <rdg wit="#w32">ιδον</rdg>
     </app>
@@ -192,13 +175,14 @@
     <app>
       <rdg wit="#w11 #w21 #w22 #w31">αστραπτουσει</rdg>
       <rdg wit="#w12">αστραπτουση</rdg>
-      <rdg wit="#w23 #w24">εν</rdg>
+      <rdg wit="#w23">αστρατιτουση</rdg>
+      <rdg wit="#w24">ασραπτουση</rdg>
       <rdg wit="#w32">αστραοτουσει</rdg>
     </app>
     <app>
-      <rdg wit="#w11 #w21 #w22 #w31">ενφοβοι</rdg>
-      <rdg wit="#w12 #w23">φοβοι</rdg>
-      <rdg wit="#w24">φοβον</rdg>
+      <rdg wit="#w11 #w21 #w22 #w23 #w31">ενφοβοι</rdg>
+      <rdg wit="#w12">φοβοι</rdg>
+      <rdg wit="#w24">ενφοβον</rdg>
       <rdg wit="#w32">ενροβοι</rdg>
     </app>
     δε
@@ -222,12 +206,11 @@
     την
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">γην</rdg>
-      <rdg wit="#w23">ος</rdg>
-      <rdg wit="#w24"/>
+      <rdg wit="#w23 #w24"/>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">οι</rdg>
-      <rdg wit="#w23">αε</rdg>
+      <rdg wit="#w23">οςα</rdg>
       <rdg wit="#w24">ος</rdg>
     </app>
     <app>
@@ -236,7 +219,7 @@
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">ειπαν</rdg>
-      <rdg wit="#w23">τια</rdg>
+      <rdg wit="#w23">ετια</rdg>
     </app>
     προς
     <app>
@@ -283,7 +266,7 @@
     τη
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">γαλιλαια</rdg>
-      <rdg wit="#w23">α</rdg>
+      <rdg wit="#w23">αλιλχα</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">οτι</rdg>
@@ -293,20 +276,20 @@
     τον
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">υιον</rdg>
-      <rdg wit="#w23">ανθρωπον</rdg>
+      <rdg wit="#w23">ον</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31 #w32">του</rdg>
-      <rdg wit="#w23">δια</rdg>
+      <rdg wit="#w23">τον</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w24 #w31">ανθρωπου</rdg>
-      <rdg wit="#w23">ρα</rdg>
+      <rdg wit="#w23">ανθρωπον</rdg>
       <rdg wit="#w32">ανδρωπου</rdg>
     </app>
     <app>
       <rdg wit="#w11 #w12 #w21 #w22 #w31 #w32">παραδοθηναι</rdg>
-      <rdg wit="#w23">δοθηνα</rdg>
+      <rdg wit="#w23">διαραδοθηνα</rdg>
       <rdg wit="#w24">δοθηναι</rdg>
     </app>
     εις
